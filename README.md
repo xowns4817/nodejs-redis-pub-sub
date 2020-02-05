@@ -1,4 +1,4 @@
-redis 설치 및 
+redis 설치 및 데몬 실행
 
 1. wget http://download.redis.io/redis-stable.tar.gz
 
